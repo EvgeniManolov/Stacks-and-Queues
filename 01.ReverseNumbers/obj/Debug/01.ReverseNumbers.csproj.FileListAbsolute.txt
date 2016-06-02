@@ -1,0 +1,1 @@
+c:\users\pc\documents\visual studio 2015\Projects\StacksAndQueues\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe.config

@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\09.StackFibonacci\bin\Debug\09.StackFibonacci.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\09.StackFibonacci\obj\Debug\09.StackFibonacci.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\09.StackFibonacci\obj\Debug\09.StackFibonacci.pdb
+C:\Users\pc\documents\visual studio 2015\Projects\StacksAndQueues\09.StackFibonacci\obj\Debug\09.StackFibonacci.csprojResolveAssemblyReference.cache

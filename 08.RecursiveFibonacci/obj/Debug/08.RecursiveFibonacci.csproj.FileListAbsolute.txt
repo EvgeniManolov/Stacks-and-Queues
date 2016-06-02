@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StacksAndQueues\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.pdb
